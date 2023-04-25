@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 10.0.0, 2023-04-25T14:20:34. -->
+<!-- Written by QtCreator 10.0.0, 2023-04-25T14:27:42. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -143,6 +143,7 @@
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">main.py</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration./home/iaggo/Documents/ProjectsZwei/ProSim/ProSimGUI/main.py</value>
     <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">/home/iaggo/Documents/ProjectsZwei/ProSim/ProSimGUI/main.py</value>
+    <value type="QString" key="PythonEditor.RunConfiguation.Interpreter">{2df1c718-76ac-4733-93f4-cd820d545858}</value>
     <value type="QString" key="PythonEditor.RunConfiguation.Script">/home/iaggo/Documents/ProjectsZwei/ProSim/ProSimGUI/main.py</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
