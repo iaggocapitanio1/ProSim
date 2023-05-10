@@ -1,0 +1,40 @@
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C1_1  and  C7_7 
+REMARK    2  A    between atoms: C2_2  and  C13_13 
+REMARK    3  A    between atoms: C4_4  and  O6_6 
+REMARK    4  A    between atoms: C16_16  and  S19_19 
+ROOT
+HETATM    1  C1  RCX A 601       0.406   1.419  -2.119  1.00  0.00     0.045 A 
+HETATM    2  C2  RCX A 601      -0.540   0.394  -2.076  1.00  0.00     0.012 A 
+HETATM    3  C3  RCX A 601      -1.115   0.385  -3.342  1.00  0.00     0.158 A 
+HETATM    4  C4  RCX A 601       0.353   1.892  -3.424  1.00  0.00     0.195 A 
+HETATM    5  O5  RCX A 601      -0.576   1.290  -4.120  1.00  0.00    -0.299 OA
+ENDROOT
+BRANCH   1   6
+HETATM    6  C7  RCX A 601       1.244   1.966  -1.021  1.00  0.00    -0.020 A 
+HETATM    7  C12 RCX A 601       2.573   2.365  -1.269  1.00  0.00     0.012 A 
+HETATM    8  C11 RCX A 601       3.362   2.893  -0.236  1.00  0.00     0.001 A 
+HETATM    9  C10 RCX A 601       2.831   3.031   1.054  1.00  0.00     0.000 A 
+HETATM   10  C9  RCX A 601       1.508   2.646   1.311  1.00  0.00     0.001 A 
+HETATM   11  C8  RCX A 601       0.716   2.120   0.279  1.00  0.00     0.012 A 
+ENDBRANCH   1   6
+BRANCH   2  12
+HETATM   12  C13 RCX A 601      -0.863  -0.544  -0.968  1.00  0.00    -0.023 A 
+HETATM   13  C18 RCX A 601      -2.177  -1.029  -0.807  1.00  0.00     0.014 A 
+HETATM   14  C17 RCX A 601      -2.487  -1.931   0.222  1.00  0.00     0.024 A 
+HETATM   15  C16 RCX A 601      -1.481  -2.361   1.105  1.00  0.00     0.058 A 
+HETATM   16  C15 RCX A 601      -0.163  -1.897   0.944  1.00  0.00     0.024 A 
+HETATM   17  C14 RCX A 601       0.141  -0.999  -0.088  1.00  0.00     0.014 A 
+BRANCH  15  18
+HETATM   18  S19 RCX A 601      -1.864  -3.500   2.390  1.00  0.00     0.171 S 
+HETATM   19  O20 RCX A 601      -0.896  -4.832   2.323  1.00  0.00    -0.223 OA
+HETATM   20  O21 RCX A 601      -3.466  -3.896   2.396  1.00  0.00    -0.223 OA
+HETATM   21  C22 RCX A 601      -1.551  -2.759   3.910  1.00  0.00     0.167 C 
+ENDBRANCH  15  18
+ENDBRANCH   2  12
+BRANCH   4  22
+HETATM   22  O6  RCX A 601       1.029   3.032  -3.906  1.00  0.00    -0.340 OA
+HETATM   23  H6  RCX A 601       1.100   3.655  -3.085  1.00  0.00     0.220 HD
+ENDBRANCH   4  22
+TORSDOF 4
