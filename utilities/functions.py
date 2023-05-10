@@ -7,6 +7,9 @@ import settings
 
 v = Vina()
 
+settings.SAMPLES_DIR.mkdir(parents=True, exist_ok=True)
+settings.RESULT_DIR.mkdir(parents=True, exist_ok=True)
+
 
 def process_file(file: Union[str, Path]):
     v.set_receptor(settings.SAMPLES_DIR.joinpath("Only_prot.pdbqt").__str__())
