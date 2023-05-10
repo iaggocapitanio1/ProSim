@@ -1,6 +1,7 @@
+from typing import List
+
 from vina import Vina
-from pathlib import Path
-from typing import List, Union
+
 import settings
 from utilities.functions import process_file
 
